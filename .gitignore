@@ -1,0 +1,12 @@
+# Backend ignore files
+
+backend/.env
+backend/vendor
+backend/composer.lock
+backend/storage/oauth-private.key
+backend/storage/oauth-public.key
+backend/storage/framework/cache/
+backend/storage/framework/views/
+backend/storage/logs/
+backend/storage/app/
+backend/public/images/
